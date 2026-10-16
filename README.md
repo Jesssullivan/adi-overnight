@@ -1,5 +1,3 @@
-# adi-overnight
-
 Hi friends!  Here is an ultraminimal alternate solution to the SMS simulation.  
 
 It was written live on camera in one take, from about 4:15am to 7:20am on 16 Oct 2026
