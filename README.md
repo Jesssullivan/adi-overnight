@@ -3,9 +3,9 @@
 Hi friends!  Here is an ultraminimal alternate solution to the SMS simulation.  
 
 It was written live on camera in one take, from about 4:15am to 7:20am on 16 Oct 2026
-- *I see now my ffmpeg capture is uh, skewed pretty badly :eyes: apologies for the crazy artifacts and smearing*
-- *clip also halted ~2hrs in I see after bluetooth earphones died, taking the whole capture with it, ahhg*
-- *also, I apologies for making weird faces sometimes while programming and playing guitar while thinking*
+- *I see now my ffmpeg capture is skewed badly :eyes: apologies for the crazy artifacts and smearing.*
+- *Clip also halted ~2hrs in I see after bluetooth earphones died, taking the whole capture with it.  See the [script enclosed](https://github.com/Jesssullivan/adi-overnight/blob/main/ffmpeg-capture/record.sh)*
+- *Also, I apologize for making weird faces sometimes while programming and playing guitar while thinking.*
 
 
 
